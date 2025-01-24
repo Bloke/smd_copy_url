@@ -1,0 +1,16 @@
+{
+  "name": "bloke/smd_copy_url",
+  "description": "Copy article URL to the clipboard",
+  "keywords": ["textpattern", "plugin", "article", "copy", "links", "status"],
+  "homepage": "https://github.com/bloke/smd_copy_url",
+  "license": "LGPL-2.1",
+  "type": "textpattern-plugin",
+  "support": {
+    "issues": "https://github.com/bloke/smd_copy_url/issues",
+    "source": "https://github.com/bloke/smd_copy_url"
+  },
+  "require": {
+    "textpattern/lock": ">=4.8.0",
+    "textpattern/installer": "*"
+  }
+}

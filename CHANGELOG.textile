@@ -1,0 +1,5 @@
+h1. Changelog
+
+h2. 0.10 - 2025-01-24
+
+* Official public release.
