@@ -317,7 +317,6 @@ document.addEventListener("DOMContentLoaded", function() {
     observer.observe(smd_copy_url_hook, observerConfig);
 
     smd_copy_url_hook.addEventListener('click', (e) => {
-        e.preventDefault();
         if (e.target.classList.contains('smd_url_copy_icon')) {
             let row = e.target.closest('tr');
             let artid = row.querySelector('th a').text;
